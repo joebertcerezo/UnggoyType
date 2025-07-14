@@ -144,6 +144,7 @@ UnggoyType is fully responsive and works on:
 
 ## Screenshot
 
+<img width="3360" height="1716" alt="screencapture-localhost-3000-2025-07-14-10_30_59" src="https://github.com/user-attachments/assets/f951dd4b-755d-461d-966a-1585fd99abb0" />
 
 ## 👨‍💻 Author
 
