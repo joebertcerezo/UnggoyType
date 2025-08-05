@@ -152,4 +152,4 @@ UnggoyType is fully responsive and works on:
 
 ---
 
-_Happy typing! 🎯1
+_Happy typing! 🎯_
